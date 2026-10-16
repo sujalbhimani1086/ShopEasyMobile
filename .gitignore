@@ -73,3 +73,47 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# Cleanup backup
+_cleanup_backup/
+
+
+
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Local editor settings (optional)
+.vscode/
+
+# Debug logs
+*.log
+
+
+
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Local editor settings
+.vscode/
+
+# Debug logs
+*.log
+
+
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Local editor settings
+.vscode/
+
+# Debug logs
+*.log
